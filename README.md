@@ -1,3 +1,3 @@
-<p align="center">
+<div align="center">
 
 [Netlify](https://image-slider-memosainz.netlify.app/)
